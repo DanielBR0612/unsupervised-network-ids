@@ -1,2 +1,2 @@
 # unsupervised-network-ids
-Unsupervised Network Intrusion Detection System (NIDS) using the CSE-CIC-IDS2018 dataset. Focuses on anomaly detection.
+A label-free approach to network security. This project implements an Unsupervised Network Intrusion Detection System (NIDS) to analyze telemetry data from the CSE-CIC-IDS2018 dataset. By leveraging Dimensionality Reduction (PCA) and Clustering algorithms, it aims to identify malicious traffic patterns and zero-day anomalies without relying on prior attack signatures or labels.
